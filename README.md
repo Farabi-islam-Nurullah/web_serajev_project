@@ -1,1 +1,1 @@
-# web_serajevo_project
+# project-6
